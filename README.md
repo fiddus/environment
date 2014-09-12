@@ -71,23 +71,25 @@ Git is a great tool but is better to see it in a graphical clint, you can choose
 
 To work with your team and every one know about a project you need a GitHub account. If you do not have a GitHub account follow this steps
 
-1. Go to [GitHub](https://github.com/) and signup
+1. Signup a [Gravatar](https://en.gravatar.com/) account. Although this is not necessary for GitHub it will assist you managing your personal information among many sites
 
-2. In your terminal [generate your SSH key](https://help.github.com/articles/generating-ssh-keys)
+2. Go to [GitHub](https://github.com/) and signup
+
+3. In your terminal [generate your SSH key](https://help.github.com/articles/generating-ssh-keys)
         # Generate a key
         ssh-keygen -t rsa -C "your_email@example.com"
         # You can press 'Enter' on all questions
 
-3. Get 'id_rsa.pub' content
+4. Get `id_rsa.pub` content
 
         # Go to your '.ssh' folder
         cd ~/.ssh
         # Show the 'id_rsa.pub' content
         cat id_rsa.pub
 
-4. Add that a new key on [GitHub SSH keys](https://github.com/settings/ssh) 
+5. Add that content as a new key on [GitHub SSH keys](https://github.com/settings/ssh). As name for that key you can name your computer something like 'Fiddus laptop'
 
-5. Test if this key worked
+6. Test if this key worked
 
         # Testing ssh
         ssh -T git@github.com
