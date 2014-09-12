@@ -56,6 +56,17 @@ You will need git versioning your code
         git version 1.8.5.2 (Apple Git-48)
 
 
+## Graphical Client for Git
+
+Git is a great tool but is better to see it in a graphical clint, you can choose a graphical client for you operation system
+
+> - GitX [Mac](http://rowanj.github.io/gitx/)
+> - SourceTree [Mac and Windows](http://www.sourcetreeapp.com/)
+> - GitHub [Mac](https://mac.github.com/), [Windows](https://windows.github.com/)
+> - GitEye [Mac, Windows and Linux](http://www.collab.net/downloads/giteye)
+> - GitG [Linux](https://wiki.gnome.org/Apps/Gitg/)
+> - Giggle [Linux](https://wiki.gnome.org/Apps/giggle/)
+
 ## GitHub Account
 
 To work with your team and every one know about a project you need a GitHub account. If you do not have a GitHub account follow this steps
