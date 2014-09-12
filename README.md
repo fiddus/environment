@@ -13,9 +13,9 @@ Fiddus team emails
 > - <nathan@fiddus.com.br> (Nathan Reuter Godinho)
 
 
-## Terminal Configuration
+## Bash Color Configuration
 
-You will need terminal command line so you can turn it better for you day by day work. We have some suggestions about how you can setup your terminal. Bellow some people shared your links links with names that you can get a working terminal configuration. With a little of work you can do your own.
+You will need terminal command line so you can turn it better for you day by day work. We have some suggestions about how you can setup your terminal. You can get help from some people who shared theirs scripts, click on their names and you can get code for a working bash color configuration. If you didn't like any of those with a little of work you can do your own.
 
 > - [Mauricio Mercado](https://gist.github.com/maumercado/3354613)
 > - [Jonathan Buchanan](https://gist.github.com/insin/1425703)
@@ -42,17 +42,16 @@ You will need terminal command line so you can turn it better for you day by day
 
 ## Git
 
-You will need git versioning your code
+You will need git to versioning your code
 
-1. Download your version ([Mac](http://git-scm.com/download/mac), [Linux](http://git-scm.com/download/linux) or [Windows](http://git-scm.com/download/windows))
+1. Download git for your operation system ([Mac](http://git-scm.com/download/mac), [Linux](http://git-scm.com/download/linux) or [Windows](http://git-scm.com/download/windows)) and install it
 
-2. Test if your installation have success
+2. Test if you have successed installing it
 
         # See git version
         git --version
 
-  If every thing went well you probably get some thing like the follow
-
+        # If every thing went well you probably get some thing like the follow
         git version 1.8.5.2 (Apple Git-48)
 
 
@@ -100,27 +99,24 @@ To work with your team and every one know about a project you need a GitHub acco
         Are you sure you want to continue connecting (yes/no)?
         
         # You should get a message similar to the follow
-        Hi username! You've successfully authenticated, but GitHub does not provide shell access.
+        Hi username! You have successfully authenticated, but GitHub does not provide shell access.
+
 
 ## Text Editor
 
 You can use a text editor of your choice: [Sublime Text](http://www.sublimetext.com/), [NotePad++](http://notepad-plus-plus.org/), [TextMate](http://macromates.com/), [Atom](https://atom.io/)
 
-We suggest `Sublime text`, because your ease configuration and have a great community. See [Some Sublime Text Configuration](#sublime) bellow to some basic configuration
-
+We suggest `Sublime Text`, because your ease configuration and have a great community
 
 ### Sublime Configurations
 
-#### Some Sublime Text Configuration
+1. Install Sublime Package Control. It will help you install and uninstall packages on Sublime Text. Click [here](https://sublime.wbond.net/installation) to copy the package control installer code according your Sublime Text version.
 
-1. It will help you install and uninstall packages on Sublime Text. Click [here](https://sublime.wbond.net/installation) to get the commands according your Sublime Text version.
-
-2. Open Sublime Text go to `View > Show Console` copy and paste on console the follow content and press `Enter`
-
+2. Open Sublime Text and go to `View > Show Console` and paste on console the content copied from step before and press `Enter`
 
 #### Sublime packages
 
-Now you can install packages using `Ctrl + Shift + p` start typing `install` and find a package you want
+Now you can install packages using `Ctrl + Shift + p` start typing `install`, select `Package Control: Install Package` and find a package you want to install
 
 Suggested packages
 
