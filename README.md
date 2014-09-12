@@ -130,11 +130,11 @@ Suggested packages
 > - [Emmet](https://github.com/sergeche/emmet-sublime)
 > - [Hayaku](https://github.com/hayaku/hayaku)
 > - [HTMLBeautify](https://github.com/rareyman/HTMLBeautify)
-> - [AllAutocomplete]()
-> - [Git]()
-> - [SideBarEnhancements]()
-> - [Puppet]()
-> - [BracketHighlighter]()
+> - [AllAutocomplete](https://github.com/alienhard/SublimeAllAutocomplete)
+> - [Git](https://sublime.wbond.net/packages/Git)
+> - [SideBarEnhancements](https://sublime.wbond.net/packages/SideBarEnhancements)
+> - [Puppet](https://sublime.wbond.net/packages/Puppet)
+> - [BracketHighlighter](https://sublime.wbond.net/packages/BracketHighlighter)
 
 
 #### Suggested Sublime Text user configuration `Preferences > User Settings`
