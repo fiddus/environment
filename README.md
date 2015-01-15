@@ -11,6 +11,7 @@ Fiddus team emails
 > - <adroaldo@fiddus.com.br> (Adroaldo de Andrade)
 > - <jackson@fiddus.com.br> (Jackson Martorano Sant'Ana)
 > - <nathan@fiddus.com.br> (Nathan Reuter Godinho)
+> - <daniel@fiddus.com.br> (Daniel Pires Kruger)
 
 
 ## Bash Color Configuration
@@ -42,11 +43,11 @@ You will need terminal command line so you can turn it better for you day by day
 
 ## Git
 
-You will need git to versioning your code
+You will need git to manage your code versioning
 
 1. Download git for your operation system ([Mac](http://git-scm.com/download/mac), [Linux](http://git-scm.com/download/linux) or [Windows](http://git-scm.com/download/windows)) and install it
 
-2. Test if you have successed installing it
+2. Test if you have succeeded installing it
 
         # See git version
         git --version
@@ -57,7 +58,7 @@ You will need git to versioning your code
 
 ## Graphical Client for Git
 
-Git is a great tool but is better to see it in a graphical clint, you can choose a graphical client for you operation system
+Git is a great tool but is better to see it in a graphical client, you can choose a graphical client for you operation system
 
 > - GitX [Mac](http://rowanj.github.io/gitx/)
 > - SourceTree [Mac and Windows](http://www.sourcetreeapp.com/)
@@ -106,7 +107,7 @@ To work with your team and every one know about a project you need a GitHub acco
 
 You can use a text editor of your choice: [Sublime Text](http://www.sublimetext.com/), [NotePad++](http://notepad-plus-plus.org/), [TextMate](http://macromates.com/), [Atom](https://atom.io/)
 
-We suggest `Sublime Text`, because your ease configuration and have a great community
+We suggest `Sublime Text`, because its easy configuration and because it has a great community
 
 ### Sublime Configurations
 
