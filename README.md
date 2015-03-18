@@ -3,16 +3,6 @@
 
 Here you will find how to set up you computer to better work on **Fiddus** projects.
 
-## Used Accounts
-
-Fiddus team emails
-
-> - <vinicius@fiddus.com.br> (Vinicius Teixeira)
-> - <adroaldo@fiddus.com.br> (Adroaldo de Andrade)
-> - <jackson@fiddus.com.br> (Jackson Martorano Sant'Ana)
-> - <nathan@fiddus.com.br> (Nathan Reuter Godinho)
-> - <daniel@fiddus.com.br> (Daniel Pires Kruger)
-
 
 ## Bash Color Configuration
 
